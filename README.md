@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">I a final year Computer Science Engineering student from Indore, specializing in Full Stack Development.</p>
+<h4 align="left">My splendid problem-solving acumen, fused with deep expertise in Cloud technologies and Full Stack Development, empowers me to transform complex real-world challenges into elegant, scalable solutions. <br><br>Where others see obstacles, I see opportunities to engineer innovation, streamline systems, and create impact. With every project, I bring relentless adaptability, technical precision, and a vision to craft solutions that don’t just work but thrive.</h4>
 
 ###
 
-<h3 align="left">My splendid problem solving skills, combined with solid fundamentals, make me a highly competent engineer.<br>I possess a strong portfolio of high-quality, enterprise-ready projects that demonstrate practical skills and real-world applicability.</h3>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since The day I wrote my first "Hello, World!" program with a semicolon (in Python)<br>📚 I'm currently learning Advanced Java Spring Boot and delving deeper into DevOps tools.<br>🎯 Goals: To become a DevOps Engineer, master DevOps tools, and contribute to impactful, scalable solutions in enterprise environments.<br>🎲 Fun fact: Alongside computer science, I’m also exploring intriguing concepts like nuclear physics—a fusion of my curiosity and passion!</p>
+<p align="left">Education: I have a strong foundation in computer science and engineering, which forms the base for my technical expertise.<br><br>Problem-Solving & Thinking: I excel at analytical thinking and problem-solving, approaching challenges with creativity and efficiency.<br><br>Technical Skills: I am skilled in programming, cloud computing, and software development, with hands-on experience building practical, enterprise-ready projects.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning QA tools and technologies<br>🎯 Goals: To become more than just a developer. A thinker, innovator, and engineer at heart.<br>🎲 Fun fact: I build solutions rooted in real-world insights, blending technology with ground research and human understanding.</p>
 
 ###
 
@@ -19,27 +19,21 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" alt="eclipseide logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="40" alt="tomcat logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
 </div>
 
 ###
