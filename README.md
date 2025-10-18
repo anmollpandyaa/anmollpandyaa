@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I am Anmol Pandya, a pre-final year Computer Science Engineering student from Indore, specializing in Full Stack Development.</p>
+<p align="left">I a final year Computer Science Engineering student from Indore, specializing in Full Stack Development.</p>
 
 ###
 
-<h2 align="left">With certifications in Cloud, hands-on experience with GCP and tools like Terraform, I have developed and deployed responsive applications. My passion lies in building scalable solutions with Microservices and integrating cloud functionality. <br><br>A fast learner and an innovator, I actively participate in hackathons, including reaching the finals of a national-level event. I aspire to work in enterprise environments as a DevOps Engineer or Software Developer, contributing to impactful projects and leveraging cutting-edge technologies.</h2>
+<h3 align="left">My splendid problem solving skills, combined with solid fundamentals, make me a highly competent engineer.<br>I possess a strong portfolio of high-quality, enterprise-ready projects that demonstrate practical skills and real-world applicability.</h3>
 
 ###
 
