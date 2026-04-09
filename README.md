@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Education: I have a strong foundation in computer science and engineering, which forms the base for my technical expertise.<br><br>Problem-Solving & Thinking: I excel at analytical thinking and problem-solving, approaching challenges with creativity and efficiency.<br><br>Technical Skills: I am skilled in programming, cloud computing, and software development, with hands-on experience building practical, enterprise-ready projects.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning QA tools and technologies<br>🎯 Goals: To become more than just a developer. A thinker, innovator, and engineer at heart.<br>🎲 Fun fact: I build solutions rooted in real-world insights, blending technology with ground research and human understanding.</p>
+<p align="left">Education: I have a strong foundation in computer science and engineering, which forms the base for my technical expertise.<br><br>Problem-Solving & Thinking: I excel at analytical thinking and problem-solving, approaching challenges with creativity and efficiency.<br><br>Technical Skills: I am skilled in programming, cloud computing, and software development, with hands-on experience building practical, enterprise-ready projects.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning backend development with JavaScript<br>🎯 Goals: To become more than just a developer. A thinker, innovator, and engineer at heart.<br>🎲 Fun fact: I build solutions rooted in real-world insights, blending technology with ground research and human understanding.</p>
 
 ###
 
